@@ -5,18 +5,20 @@ body{
     max-width: 700px;
     width: 80%;
     color: rgb(56, 41, 41);
-    font-family: dosis;
 }
+
 h1 {
     text-align: center;
     color: rgb(77, 54, 58);
     font-family: dosis;
 }
+
 .quote{
     margin: 10px 10px;
     border-left: 5px solid  rgb(206, 198, 199);
     padding-left: 10px; 
 }
+
 .date{
     text-transform: uppercase;
     font-weight: 800;
@@ -26,6 +28,7 @@ h1 {
     padding: 10px;
     color: rgb(126, 84, 91);
 }
+
 .post {
     margin: 10px 10px;
     text-align: left;
@@ -35,22 +38,26 @@ hr{
     border-top: 1px solid rgb(206, 198, 199);
     border-bottom: 1px solid rgb(206, 198, 199);
 }
+
 hr{
     color: rgb(218, 180, 180);
     border-width: 1px;
 }
+
 img{
     float: center;
     width: 80%;
     margin: 20px; 
     padding: 30px; 
 }
+
 h2{ 
     font-family: muli;
     margin: 10px auto;
     padding: 10px; 
     color: rgb(77, 54, 58);
 }
+
 p{
     margin: 10px; 
     font-family: Dosis;
