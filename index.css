@@ -10,6 +10,7 @@ body{
 h1 {
     text-align: center;
     color: rgb(77, 54, 58);
+    font-family: dosis;
 }
 .quote{
     margin: 10px 10px;
